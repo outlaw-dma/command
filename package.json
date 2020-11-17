@@ -1,0 +1,27 @@
+{
+  "name": "command",
+  "version": "1.0.0",
+  "description": "Template for creating command-line interfaces to Web APIs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outlaw-dma/command.git"
+  },
+  "keywords": [
+    "command",
+    "cli",
+    "oclif"
+  ],
+  "author": "Tracey Ledbetter",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/outlaw-dma/command/issues"
+  },
+  "homepage": "https://github.com/outlaw-dma/command#readme"
+}
