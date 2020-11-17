@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/outlaw-dma/command/issues"
   },
-  "homepage": "https://github.com/outlaw-dma/command#readme"
+  "homepage": "https://github.com/outlaw-dma/command#readme",
+  "dependencies": {
+    "@oclif/command": "^1.8.0"
+  }
 }
